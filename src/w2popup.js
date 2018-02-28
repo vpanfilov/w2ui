@@ -1,4 +1,4 @@
-import {w2ui, w2obj, w2utils} from 'w2utils';
+import {w2ui, w2obj, w2utils} from './w2utils';
 
 /************************************************************************
 *   Library: Web 2.0 UI for jQuery (using prototypical inheritance)
