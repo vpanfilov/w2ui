@@ -521,5 +521,3 @@ import {w2ui, w2obj, w2utils} from './w2utils';
     $.extend(w2tabs.prototype, w2utils.event);
     w2obj.tabs = w2tabs;
 })(jQuery);
-
-export {w2tabs}

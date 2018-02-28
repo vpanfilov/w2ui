@@ -824,5 +824,3 @@ import {w2field} from './w2fields'
     $.extend(w2toolbar.prototype, w2utils.event);
     w2obj.toolbar = w2toolbar;
 })(jQuery);
-
-export {w2toolbar}

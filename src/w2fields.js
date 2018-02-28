@@ -2705,5 +2705,3 @@ import {w2ui, w2obj, w2utils} from './w2utils';
     w2obj.field = w2field;
 
 }) (jQuery);
-
-export {w2field}

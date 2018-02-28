@@ -961,5 +961,3 @@ import {w2ui, w2obj, w2utils} from './w2utils';
     $.extend(w2sidebar.prototype, w2utils.event);
     w2obj.sidebar = w2sidebar;
 })(jQuery);
-
-export {w2sidebar}
