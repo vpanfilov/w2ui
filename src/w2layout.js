@@ -1138,5 +1138,3 @@ import {w2tabs} from './w2tabs';
     $.extend(w2layout.prototype, w2utils.event);
     w2obj.layout = w2layout;
 })(jQuery);
-
-export {w2layout};

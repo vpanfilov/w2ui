@@ -1155,4 +1155,4 @@ var w2prompt = function (label, title, callBack) {
     };
 };
 
-export {w2popup};
+export {w2popup, w2prompt, w2confirm, w2alert};
