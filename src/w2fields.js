@@ -1,3 +1,5 @@
+import {w2ui, w2obj, w2utils} from 'w2utils';
+
 /************************************************************************
 *   Library: Web 2.0 UI for jQuery (using prototypical inheritance)
 *   - Following objects defined
@@ -2703,3 +2705,5 @@
     w2obj.field = w2field;
 
 }) (jQuery);
+
+export {w2field}

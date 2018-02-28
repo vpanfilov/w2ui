@@ -1,3 +1,7 @@
+import {w2ui, w2obj, w2utils} from 'w2utils';
+import {w2toolbar} from 'w2toolbar';
+import {w2tabs} from 'w2tabs';
+
 /************************************************************************
 *   Library: Web 2.0 UI for jQuery (using prototypical inheritance)
 *   - Following objects defined
@@ -1134,3 +1138,5 @@
     $.extend(w2layout.prototype, w2utils.event);
     w2obj.layout = w2layout;
 })(jQuery);
+
+export {w2layout};
